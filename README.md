@@ -1,7 +1,7 @@
 # Bank-Loan-Report
  **Bank Loan Report - Power BI Dashboard**<br> 
  This project presents a comprehensive Bank Loan Report built using Power BI, providing key insights into loan performance and trends.<br>
-**Key Features:**
+**Key Features:**<br>
 Loan Applications: Visualizes total applications, month-to-date (MTD), and prior month-to-date (PMTD) comparisons.<br>
 Loan Funding & Repayments: Tracks the total funded loan amounts and amounts received from repayments.<br>
 Interest Rates & DTI: Shows average interest rates and debt-to-income ratios, segmented by MTD and PMTD data.<br>
